@@ -1,6 +1,7 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"
+    {"id":0,"file":"client dev tun proto udp ... ed03bc6567e9aeb73a39c6d79a34e343 -----END OpenVPN Static key V1----- </tls-auth>"},
+    {"id":1,"file":"
 setenv FORWARD_COMPATIBLE 1
 client
 server-poll-timeout 4
@@ -120,7 +121,6 @@ b74594986c026c88841f6c3b93b7416c
 802aabecdeef12dbf8b8f354a6ebcecc
 dee8fc3ab207e92c6aaab1b36b12f230
 -----END OpenVPN Static key V1-----
-</tls-auth>"},
-     
-    ]
+</tls-auth>"}
+  ]
 }
